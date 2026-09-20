@@ -462,7 +462,7 @@
      12) WHATSAPP
      ========================================================= */
   const WHATSAPP_NUMBER = '557488279433';
-  const WHATSAPP_MESSAGE = 'Olá! Vim pelo site da Lourran Sobral e gostaria de saber mais.';
+  const WHATSAPP_MESSAGE = 'Olá! Acessei o site do Lourran Sobral e gostaria de saber mais sobre os serviços de próteses odontológicas.';
 
   const whatsappUrl = WHATSAPP_NUMBER
     ? 'https://wa.me/' + WHATSAPP_NUMBER + '?text=' + encodeURIComponent(WHATSAPP_MESSAGE)
